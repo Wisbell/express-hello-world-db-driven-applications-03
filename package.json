@@ -1,0 +1,23 @@
+{
+  "name": "express-hello-world-db-driven-applications-03",
+  "version": "1.0.0",
+  "description": "https://github.com/nashville-software-school/node-milestones/blob/master/02-db-driven-applications/exercises/03-express-hello-world.md",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wisbell/express-hello-world-db-driven-applications-03.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wisbell/express-hello-world-db-driven-applications-03/issues"
+  },
+  "homepage": "https://github.com/Wisbell/express-hello-world-db-driven-applications-03#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
