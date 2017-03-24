@@ -16,3 +16,11 @@ if(port){
 } else {
   app.listen(8080)
 }
+
+// Example of setting port in cli
+
+// PORT=1337 node express-hello-world.js
+
+// uses port 8080
+
+// node express-hello-world.js
